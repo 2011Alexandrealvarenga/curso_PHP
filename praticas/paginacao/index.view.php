@@ -19,12 +19,12 @@
       </section>
       <section class="paginacion">
         <ul>
-          <li><a href="#">&laquo;</a></li>
-          <li><a href="#">1</a></li>
+          <li class="disabled"><a href="#">&laquo;</a></li>
+          <li class="active"><a href="#">1</a></li>
           <li><a href="#">2</a></li>
           <li><a href="#">3</a></li>
           <li><a href="#">4</a></li>
-
+          <li><a href="#">&raquo;</a></li>
         </ul>
       </section>
     </div>
