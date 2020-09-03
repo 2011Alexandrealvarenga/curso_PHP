@@ -17,6 +17,16 @@
           <li>5. - Lorem ipsum dolor sit  </li>
         </ul>
       </section>
+      <section class="paginacion">
+        <ul>
+          <li><a href="#">&laquo;</a></li>
+          <li><a href="#">1</a></li>
+          <li><a href="#">2</a></li>
+          <li><a href="#">3</a></li>
+          <li><a href="#">4</a></li>
+
+        </ul>
+      </section>
     </div>
 </body>
 </html>
